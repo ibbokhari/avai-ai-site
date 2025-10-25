@@ -52,9 +52,6 @@ export default function HomePage() {
               Discover Giant Filter
             </a>
 
-              Discover Giant Filter
-            </a>
-
           </div>
         </div>
       </main>
