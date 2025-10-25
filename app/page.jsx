@@ -46,11 +46,10 @@ export default function HomePage() {
               </p>
             </div>
             <a
-              href="/giantfilter"
-              className="mt-6 inline-block bg-teal-400 text-black font-medium px-6 py-2 rounded-xl text-center"
-            >
-              Learn More
+              <a href="#giant-filter" className="inline-block bg-teal-400 text-black px-5 py-2 rounded-2xl font-medium">
+              Discover Giant Filter
             </a>
+
           </div>
         </div>
       </main>
