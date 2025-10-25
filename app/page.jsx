@@ -47,6 +47,7 @@ export default function HomePage() {
             </div>
             <a
               <a href="#giant-filter" className="inline-block bg-teal-400 text-black px-5 py-2 rounded-2xl font-medium">
+            >
               Discover Giant Filter
             </a>
 
